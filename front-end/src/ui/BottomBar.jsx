@@ -25,8 +25,12 @@ export default function BottomBar() {
       >
         Desenvolvido e mantido com
         <LiquorIcon fontSize="large" sx={{ mb: -0.5, mx: 0.5 }} /> {}
-        por
+        por Pedro Henrique Neves Tries {' | E-mail:'} 
         <span style={{ marginLeft: '4px' }} />
+        <a href="mailto:pedro.tries@fatec.sp.gov.br">
+          pedro.tries@fatec.sp.gov.br
+        </a>
+        {' | GitHub: '}
         <a href="https://github.com/peida-nao-xerequinha/ps-ads-2025-1">
           peida-nao-xerequinha
         </a>
